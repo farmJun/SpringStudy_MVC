@@ -1,4 +1,4 @@
-package study.servlet.basic;
+package study.servlet.basic.request;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
