@@ -17,7 +17,7 @@ public class MemberRepository {
     }
 
     private MemberRepository() {
-    }가
+    }
 
     public Member save(Member member) {
         member.setId(++sequence);
