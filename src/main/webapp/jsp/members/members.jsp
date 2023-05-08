@@ -27,6 +27,7 @@
             out.write("         <td> " + member.getUsername() + "</td>");
             out.write("         <td> " + member.getAge() + "</td>");
             out.write("    </tr>");
+        }
     %>
     </tbody>
 </table>
