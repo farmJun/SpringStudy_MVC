@@ -1,4 +1,4 @@
-package study.servlet.web.frontcontroller.v1.controller;
+package study.servlet.web.springmvc.v1;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;
